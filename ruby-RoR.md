@@ -1,0 +1,77 @@
+# My ruby/RoR References
+These are my personal RoR references/documents/tutorials I found during my RoR learning period(this is still going on...)
+
+-------------------------------------------------------------------------------------------
+## Gems
+
+#### Rubocop
+> [Rubocop](https://github.com/bbatsov/rubocop) A Ruby static code analyzer, based on the community Ruby style guide.
+
+#### Ruby Style Guide
+> [ruby-style-guide](https://github.com/bbatsov/ruby-style-guide) A community-driven Ruby coding style guide.
+
+#### Writign Fast Ruby
+> [fast-ruby](https://github.com/JuanitoFatas/fast-ruby) Writing Fast Ruby :heart_eyes: -- Collection of Common Ruby idioms.
+> [fasterer](https://github.com/DamirSvrtan/fasterer) Don't make your Rubies go fast. Make them go fasterer.
+
+#### peek
+> [peel](https://github.com/peek/peek) Take a peek into your Rails applications.
+
+#### breakman
+> [breakman](https://github.com/presidentbeef/brakeman) A static analysis security vulnerability scanner for Ruby on Rails applications.
+
+#### bullet
+> [bullet](https://github.com/flyerhzm/bullet) Help to kill N+1 queries and unused eager loading.
+
+#### RailsPannel
+> [rails_pannel](https://github.com/dejan/rails_panel) Chrome extension for Rails development inspection.
+
+#### reek
+> [reek](https://github.com/troessner/reek) Code smell detector for Ruby.
+
+#### ruby_sadist (flog,flay)
+> [ruby_sadist](http://ruby.sadi.st/Ruby_Sadist.html)
+
+## Websites/magazine
+
+#### Ruby Weekly
+> [RubyWeekly](http://rubyweekly.com/) By Peter Cooper. Weekly video, tools, news about what is new and trending in the Ruby community and the language itself.
+
+#### Ruby Daily
+> [RubyDaily](http://rubydaily.org/) By Nick Kugaevsky. News and posts related to the Ruby community and programming in this language.
+
+#### Green Ruby
+> [GreenRuby](http://greenruby.org/) Blog posts related to Ruby in the mail to the latest gems releases, podcasts episodes, educational tools and videos (from lectures or tutorials).
+
+#### Ruby Flow
+> [RubyFlow](http://www.rubyflow.com/) The Ruby and Rails community linklog.
+
+## Books
+
+#### Ruby On Rails Tutorial - by Michael Hartl
+> [RubyOnRailsTutorial](https://www.railstutorial.org/)
+
+#### APIs on Rails - by Abraham Kuri (FREE)
+> [APIsOnRails](http://apionrails.icalialabs.com/book) Building REST APIs with Rails. 
+
+#### Learn Ruby on Rails - by Daniel Kehoe (FREE)
+> [LearnRubyOnRails](http://learn-rails.com/learn-ruby-on-rails.html)
+
+#### Beginning Ruby - by Peter Cooper
+> [BeginningRuby](http://www.apress.com/us/book/9781484212790)
+
+#### Agile Web Development with Rails 5 - by Sam Ruby, Dave Thomas and David Heinemeier Hansson
+> [link](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
+
+## Tutorial/Website  FREEE!!
+
+#### Drifting Ruby
+> [DriftingRuby](https://www.driftingruby.com) 
+
+#### Ruby Tapas
+> [RubyTapas](https://www.rubytapas.com/) RubyTapas is for the busy Ruby or Rails developer who is ready to reach the next level of code mastery. Short, focused screencasts twice a week will introduce you to a wide variety of intermediate to advanced Ruby concepts and techniques, Object-Oriented design principles, testing practices, refactoring skills, and much more.
+
+## Blogs
+
+#### Did you say Complexity, eh? - by Christophe
+[link](http://blog.8thcolor.com/en/2013/06/did-you-say-complexity-eh/) TL;DR After introducing what complexity is, how it can be measured, and how to monitor it in Ruby - I'll get to the difficult part: how to reduce it in Ruby. The post is concluded with some thoughts and recap. 
