@@ -17,8 +17,8 @@ These are my personal RoR references/documents/tutorials I found during my RoR l
 #### peek
 > [peel](https://github.com/peek/peek) Take a peek into your Rails applications.
 
-#### breakman
-> [breakman](https://github.com/presidentbeef/brakeman) A static analysis security vulnerability scanner for Ruby on Rails applications.
+#### brakeman
+> [brakeman](https://github.com/presidentbeef/brakeman) A static analysis security vulnerability scanner for Ruby on Rails applications.
 
 #### bullet
 > [bullet](https://github.com/flyerhzm/bullet) Help to kill N+1 queries and unused eager loading.
@@ -31,6 +31,9 @@ These are my personal RoR references/documents/tutorials I found during my RoR l
 
 #### ruby_sadist (flog,flay)
 > [ruby_sadist](http://ruby.sadi.st/Ruby_Sadist.html)
+
+#### bundler_audir
+> [bundler_audit](https://github.com/rubysec/bundler-audit) Patch-level verification for Bundler
 
 ## Websites/magazine
 
