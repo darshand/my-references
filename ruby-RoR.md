@@ -35,6 +35,9 @@ These are my personal RoR references/documents/tutorials I found during my RoR l
 #### bundler_audir
 > [bundler_audit](https://github.com/rubysec/bundler-audit) Patch-level verification for Bundler
 
+#### pg_search
+> [pg_search](https://github.com/Casecommons/pg_search) pg_search builds ActiveRecord named scopes that take advantage of PostgreSQL’s full text search
+
 ## Websites/magazine
 
 #### Ruby Weekly
