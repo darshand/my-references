@@ -12,7 +12,9 @@
 
 #### Full Text Search related
 > [link](http://zdk.github.io/full-text-search-with-postgresql-and-rails-4-for-the-love) Full Text Search with PostgreSQL and Rails for the love.
+
 > [link](http://rachbelaid.com/postgres-full-text-search-is-good-enough/) Postgres full-text search is Good Enough!
+
 > [link](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/) Full text search in milliseconds with PostgreSQL.
 > [link](https://www.compose.com/articles/indexing-for-full-text-search-in-postgresql/) Indexing for full text search in PostgreSQL.
 > [link](http://shisaa.jp/postset/postgresql-full-text-search-part-1.html) POSTGRESQL: A FULL TEXT SEARCH ENGINE
