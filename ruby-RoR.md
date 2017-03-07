@@ -102,3 +102,7 @@ These are my personal RoR references/documents/tutorials I found during my RoR l
 
 #### Did you say Complexity, eh? - by Christophe
 [link](http://blog.8thcolor.com/en/2013/06/did-you-say-complexity-eh/) TL;DR After introducing what complexity is, how it can be measured, and how to monitor it in Ruby - I'll get to the difficult part: how to reduce it in Ruby. The post is concluded with some thoughts and recap. 
+
+[link] (https://medium.com/wolox-driving-innovation/activerecord-postgresql-materialized-views-9a9ef56b5a8d#.grqywcf05) ActiveRecord + PostgreSQL Materialized Views
+
+[link] (https://www.sitepoint.com/speed-up-with-materialized-views-on-postgresql-and-rails/) Speed up with Materialized Views on PostgreSQL and Rails
