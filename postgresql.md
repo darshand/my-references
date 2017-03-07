@@ -24,4 +24,7 @@
 > [link](https://about.gitlab.com/2016/03/18/fast-search-using-postgresql-trigram-indexes/) Fast Search Using PostgreSQL Trigram Indexes.
 
 > [link](http://www.nomadblue.com/blog/django/from-like-to-full-text-search-part-ii/) From LIKE to Full-Text Search.
- 
+
+#### Vacuum relate
+> [link] (https://www.citusdata.com/blog/2016/11/04/autovacuum-not-the-enemy/) autovacuum-not-the-enemy
+> [link] (https://lob.com/blog/supercharge-your-postgresql-performance/) Slow PostgreSQL Performance? Don’t Forget to Vacuum your Database

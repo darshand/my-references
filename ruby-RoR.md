@@ -38,6 +38,15 @@ These are my personal RoR references/documents/tutorials I found during my RoR l
 #### pg_search
 > [pg_search](https://github.com/Casecommons/pg_search) pg_search builds ActiveRecord named scopes that take advantage of PostgreSQL’s full text search
 
+#### rubycritic
+> [rubycritic](https://github.com/whitesmith/rubycritic) A Ruby code quality reporter
+
+#### traceroute
+> [traceroute](https://github.com/amatsuda/traceroute) A Rake task gem that helps you find the unused routes and controller actions for your Rails 3+ app
+
+#### rack-timeout
+> [rack-timeout](https://github.com/heroku/rack-timeout) Abort requests that are taking too long
+
 ## Websites/magazine
 
 #### Ruby Weekly
@@ -51,6 +60,18 @@ These are my personal RoR references/documents/tutorials I found during my RoR l
 
 #### Ruby Flow
 > [RubyFlow](http://www.rubyflow.com/) The Ruby and Rails community linklog.
+
+#### rails-bestpractices
+> [rails-bestpractices](http://rails-bestpractices.com/) 
+
+#### 4-ways-to-early-return-from-a-rails-controller
+> [4-ways-to-early-return-from-a-rails-controller](http://blog.arkency.com/2014/07/4-ways-to-early-return-from-a-rails-controller/)
+
+#### top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup
+> [top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup](https://infinum.co/the-capsized-eight/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup)
+
+#### how-to-structure-code
+> [how-to-structure-code](http://engineering.vinted.com/2017/02/13/how-to-structure-code/)
 
 ## Books
 
