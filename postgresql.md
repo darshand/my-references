@@ -28,3 +28,4 @@
 #### Vacuum relate
 > [link] (https://www.citusdata.com/blog/2016/11/04/autovacuum-not-the-enemy/) autovacuum-not-the-enemy
 > [link] (https://lob.com/blog/supercharge-your-postgresql-performance/) Slow PostgreSQL Performance? Don’t Forget to Vacuum your Database
+> [link] (http://okigiveup.net/postgresql-vacuuming-an-introduction-for-busy-devs/) PostgreSQL Vacuuming: An Introduction for Busy Devs
