@@ -98,6 +98,9 @@ These are my personal RoR references/documents/tutorials I found during my RoR l
 #### Ruby Tapas
 > [RubyTapas](https://www.rubytapas.com/) RubyTapas is for the busy Ruby or Rails developer who is ready to reach the next level of code mastery. Short, focused screencasts twice a week will introduce you to a wide variety of intermediate to advanced Ruby concepts and techniques, Object-Oriented design principles, testing practices, refactoring skills, and much more.
 
+#### RoR tutorials list
+> [link](http://www.cybrhome.com/topic/ruby-on-rails-tutorials?utm_source=facebook&utm_campaign=AL-CM-FBGroupPost&utm_medium=social) 
+
 ## Blogs
 
 #### Did you say Complexity, eh? - by Christophe
